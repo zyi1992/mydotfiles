@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/Users/zhouyi/.config'
-let g:netrw_dirhist_2='/Users/zhouyi/server/api_dota_test'
-let g:netrw_dirhist_3='/Users/zhouyi/server/api_dota_test/dotamax'
-let g:netrw_dirhist_4='/Users/zhouyi/server/api_dota_test/dotamax/views'
-let g:netrw_dirhist_5='/Users/zhouyi/server/csgo_test'
